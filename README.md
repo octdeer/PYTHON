@@ -1,13 +1,13 @@
 # IT149IU - Fundamentals of Programming (Python)
 
 ## Name
-[Your Name]
+Trần Khánh Linh
 
 ## Student ID
-[Your Student ID]
+ITDSIU26020
 
 ## Course
-Fundamentals of Programming (Python)
+Fundamentals of Programming (Python)-Lab 1
 
 ## Overview
 This repository contains notes and solutions for Exercises 1 to 12 in the Python lab. The topics include variables, input/output, arithmetic, conditionals, loops, formatting, dictionaries, and basic algorithmic thinking.
