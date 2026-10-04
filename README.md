@@ -48,14 +48,6 @@ If you use Python 3, you can also run:
 python3 filename.py
 ```
 
-## Example
-```python
-x = 2
-y = 3
-print('x =', x)
-print('Value of', x, '+', x, 'is', (x + x))
-```
-
 ## Notes
 -This is the first time I try Python so I used AI a little bit to complete my homework
 -List of AI I used: Gemini, Claude AI, Github Copilot
