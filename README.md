@@ -57,21 +57,7 @@ print('Value of', x, '+', x, 'is', (x + x))
 ```
 
 ## Notes
-- `input()` always returns a string, so convert it using `int()` or `float()` when needed.
-- `%` is the remainder operator and is useful for checking odd/even numbers.
-- `//` is floor division and helps with whole-number division.
-- `**` is exponentiation and is useful for growth models.
-- `print()` can be customized with `sep`, `end`, and f-strings.
-- If statements are used to make decisions based on conditions.
-- Dictionaries are useful for storing data as key-value pairs.
-- Always test your code with several inputs to verify the result.
+-This is the first time I try Python so I used AI a little bit to complete my homework
+-List of AI I used: Gemini, Claude AI, Github Copilot
 
-## Important Reminder
-For each exercise, the student should:
-- write the Python code
-- run the program
-- capture the output
-- paste the code and screenshot into the lab report
 
-## Final Notes
-This lab helps students understand the basic foundations of Python programming. Mastering these exercises is important for more advanced topics such as data processing, automation, and machine learning.
